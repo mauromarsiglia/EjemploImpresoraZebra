@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string
+		name="app_name">EjemploImpresoraZebra</string>
+
+	<string-array
+		name="DEMO_APPS">
+		<item>Send File</item>	
+	</string-array>
+
+
+	<color
+		name="Red">#FF0000</color>
+</resources>
